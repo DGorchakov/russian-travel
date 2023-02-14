@@ -1,9 +1,9 @@
-.lead {
-    color: #FFFFFF;
-    padding: 28px 0;
+.places {
     display: flex;
-    align-items: center;
     flex-direction: column;
+    gap: 80px;
+    padding: 64px 0 64px;
+    color: #FFFFFF;
     max-width: 984px;
     margin: 0 auto;
 }
