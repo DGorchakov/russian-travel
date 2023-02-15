@@ -2,6 +2,14 @@
     background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
     background-position: center center;
-    min-height: 740px;
+    max-width: 1184px;
+    height: auto;
+    text-decoration: none;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 32px;
+    position: relative;
+    color: #FFFFFF;
 }
