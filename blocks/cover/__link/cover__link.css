@@ -1,8 +1,4 @@
 .cover__link {
-    background-size: cover;
-    background-position: center center;
-    max-width: 1184px;
-    height: auto;
     text-decoration: none;
     display: flex;
     flex-direction: column;

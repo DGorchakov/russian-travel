@@ -9,7 +9,7 @@
     row-gap: 32px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
     .cover__text-container {
         row-gap: 16px;
     }

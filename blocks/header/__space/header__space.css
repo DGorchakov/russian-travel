@@ -1,0 +1,10 @@
+.header__space {
+    height: 56px;
+    width: 100%;
+}
+
+@media screen and (max-width: 1024px){
+    .header__space {
+        height: 48px;
+    }
+}
