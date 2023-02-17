@@ -1,6 +1,8 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/block/_height/block_height_standard.css);
+@import url(../blocks/block/_width/block_width_standard.css);
 @import url(../blocks/page/__column/page__column.css);
 @import url(../blocks/wide-block/wide-block.css);
 @import url(../blocks/header/header.css);

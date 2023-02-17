@@ -1,0 +1,15 @@
+.block_height_standard {
+    padding-bottom: 92px;
+}
+
+@media screen and (max-width: 768px) {
+    .block_height_standard {
+        padding-bottom: 88px;
+    }    
+}
+
+@media screen and (max-width: 425px) {
+    .block_height_standard {
+        padding-bottom: 64px;
+    }    
+}
