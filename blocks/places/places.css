@@ -3,16 +3,21 @@
     flex-direction: column;
     gap: 80px;
     color: #FFFFFF;
+    max-width: 984px;
+    padding-bottom: 92px;
+    margin: 0 auto;
 }
 
 @media screen and (max-width: 768px) {
     .places {
         gap: 73px;
+        padding-bottom: 88px;
     }
 }
 
 @media screen and (max-width: 465px) {
     .places {
         gap: 50px;
+        padding-bottom: 64px;
     }
 }

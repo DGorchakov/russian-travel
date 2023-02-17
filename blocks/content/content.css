@@ -1,2 +1,14 @@
 .content {
 }
+
+@media screen and (max-width: 768px) {
+    .content {
+        row-gap: 92px;
+    }    
+}
+
+@media screen and (max-width: 425px) {
+    .content {
+        row-gap: 64px;
+    }    
+}
