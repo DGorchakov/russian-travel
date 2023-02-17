@@ -5,6 +5,8 @@
     max-width: 1184px;
     padding-bottom: 24px;
     margin: 0 auto;
+    padding-left: 48px;
+    padding-right: 48px;
 }
 
 @media screen and (max-width: 760px) {
@@ -12,4 +14,19 @@
         flex-direction: column;
         row-gap: 48px;
     }   
+}
+
+
+@media screen and (max-width: 768px) {
+    .footer  {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+}
+
+@media screen and (max-width: 425px) {
+    .footer  {
+    padding-left: 16px;
+    padding-right: 16px;
+}
 }

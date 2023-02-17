@@ -1,6 +1,7 @@
 .cover {
     color: #FFFFFF;
     max-width: 1184px;
+    padding-bottom: 92px;
     margin: 0 auto;
 }
 
@@ -8,5 +9,17 @@
 @media screen and (max-width: 1024px) {
     .cover {
         max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover  {
+        padding-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .cover  {
+        padding-bottom: 64px;
     }
 }
