@@ -7,10 +7,3 @@
     color: #AAAAAA;
     margin: 0;
 }
-
-@media screen and (max-width: 465px) {
-    .place__url-heading {
-        padding-left: 16px;
-        padding-right: 16px;
-    }
-}
